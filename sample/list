@@ -1,13 +1,14 @@
-1)https://www.kaggle.com/manasgarg/ipl
+1)Movie Lens Dataset
+dataset:https://grouplens.org/datasets/movielens/1m/
+problem statement: Recommend new movies to users.
 
-given a match who will win the match.
-
-2)https://www.kaggle.com/hhs/health-insurance-marketplace
-	to provide health innsuarance or not 
-
-3)Movie recommender.
-
+2)Movie imdb rating : 
+dataset : https://www.kaggle.com/tmdb/tmdb-movie-metadata
+problem statement : which type of movie get higher rating 
 
 
+3)Big Mart Sales prediction
+dataset:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+problem statement: Predict the sales of a store.
 
 
