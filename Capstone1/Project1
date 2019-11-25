@@ -1,0 +1,18 @@
+Project for capstone: 
+
+Title : Movie imdb rating
+
+Dataset source 	  : https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+Problem statement : Predicting which type of movie gets higher rating.
+
+Potential Client  : my analysis will provide help to movie maker on what all factor make affects movie rating.
+				    Whether it is mocie subject , director , actors or any other variable which account for movie being highly rated.
+
+Approach          : Initially step which I will follow are :
+					1) getting data
+					2) analysis of the data i.e all the different varibles and number of observation present in dataset
+					3) catagorizing of dataset on different variable. And Identifying feature/variable which we do nnot
+					   impact our rating i.e discarding features.
+					4) desinging of algorithm which will lead to solution.
+
